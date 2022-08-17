@@ -1,0 +1,350 @@
+[INFO ] [2022-08-07 00:01:24,901] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 00:01:26,193] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 00:01:26,642] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 00:01:27,874] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc1591@gmail.us'
+[INFO ] [2022-08-07 00:01:28,427] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 00:01:28,672] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 00:01:28,921] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 00:01:29,916] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 00:01:30,172] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 00:01:31,367] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 00:01:33,035] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc1591@gmail.us
+[INFO ] [2022-08-07 00:01:33,639] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 00:01:34,073] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 00:01:35,142] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 00:01:35,276] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 00:01:36,900] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 00:01:37,038] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 00:01:37,777] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 00:01:37,896] Login - Step 03: Verify 'First Name' value is correctly
+[INFO ] [2022-08-07 00:01:38,044] Login - Step 04: Verify 'Last Name' value is correctly
+[INFO ] [2022-08-07 00:01:38,175] Login - Step 05: Verify 'Email Name' value is correctly
+[INFO ] [2022-08-07 00:08:09,633] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 00:08:10,897] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 00:08:11,336] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 00:08:12,633] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc3236@gmail.us'
+[INFO ] [2022-08-07 00:08:13,142] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 00:08:13,369] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 00:08:13,637] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 00:08:14,708] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 00:08:14,951] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 00:08:16,003] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 00:08:16,737] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc3236@gmail.us
+[INFO ] [2022-08-07 00:08:17,065] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 00:08:17,308] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 00:08:18,255] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 00:08:18,378] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 00:08:19,142] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 00:08:19,308] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 00:08:20,031] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 00:08:20,143] Login - Step 03: Verify 'First Name' value is correctly
+[INFO ] [2022-08-07 00:08:20,233] Login - Step 04: Verify 'Last Name' value is correctly
+[INFO ] [2022-08-07 00:08:20,314] Login - Step 05: Verify 'Email Name' value is correctly
+[INFO ] [2022-08-07 00:10:38,651] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 00:10:39,889] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 00:10:40,365] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 00:10:41,543] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc491@gmail.us'
+[INFO ] [2022-08-07 00:10:42,209] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 00:10:42,438] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 00:10:42,700] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 00:10:44,672] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 00:10:45,007] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 00:10:46,714] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 00:10:47,460] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc491@gmail.us
+[INFO ] [2022-08-07 00:10:47,774] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 00:10:48,021] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 00:10:49,003] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 00:10:49,116] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 00:10:49,856] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 00:10:50,018] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 00:10:50,739] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 00:10:50,914] Login - Step 03: Verify 'First Name' value is correctly
+[INFO ] [2022-08-07 00:10:51,034] Login - Step 04: Verify 'Last Name' value is correctly
+[INFO ] [2022-08-07 00:10:51,130] Login - Step 05: Verify 'Email Name' value is correctly
+[INFO ] [2022-08-07 00:18:27,296] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 00:18:29,314] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 00:18:29,815] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 00:18:30,897] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc70@gmail.us'
+[INFO ] [2022-08-07 00:18:31,355] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 00:18:31,720] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 00:18:31,934] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 00:18:33,057] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 00:18:33,351] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 00:18:34,362] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 00:18:35,278] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc70@gmail.us
+[INFO ] [2022-08-07 00:18:36,258] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 00:18:36,620] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 00:18:37,697] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 00:18:37,850] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 00:18:38,600] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 00:18:38,731] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 00:18:39,369] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 00:18:39,455] Login - Step 03: Verify 'First Name' value is correctly
+[INFO ] [2022-08-07 00:18:39,547] Login - Step 04: Verify 'Last Name' value is correctly
+[INFO ] [2022-08-07 00:18:39,625] Login - Step 05: Verify 'Email Name' value is correctly
+[INFO ] [2022-08-07 14:57:28,302] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 14:57:29,584] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 14:57:30,160] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 14:57:31,586] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc7217@gmail.us'
+[INFO ] [2022-08-07 14:57:32,102] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 14:57:32,355] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 14:57:32,589] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 14:57:34,302] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 14:57:34,531] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 14:57:35,685] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 14:57:36,457] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc7217@gmail.us
+[INFO ] [2022-08-07 14:57:36,776] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 14:57:37,014] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 14:57:37,987] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 14:57:38,093] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 14:57:38,920] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 15:00:14,623] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 15:00:16,040] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 15:00:16,551] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 15:00:17,807] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc1462@gmail.us'
+[INFO ] [2022-08-07 15:00:18,329] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 15:00:18,576] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 15:00:18,809] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 15:00:20,500] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 15:00:20,760] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 15:00:21,953] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 15:00:22,743] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc1462@gmail.us
+[INFO ] [2022-08-07 15:00:23,055] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 15:00:23,275] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 15:00:24,257] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 15:00:24,380] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 15:00:25,053] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 15:06:36,554] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 15:06:37,909] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 15:06:38,329] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 15:06:39,467] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc6630@gmail.us'
+[INFO ] [2022-08-07 15:06:39,988] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 15:06:40,265] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 15:06:40,527] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 15:06:41,578] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 15:06:41,798] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 15:06:43,102] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 15:06:43,811] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc6630@gmail.us
+[INFO ] [2022-08-07 15:06:44,108] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 15:06:44,357] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 15:06:45,445] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 15:06:45,559] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 15:06:46,292] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 15:06:46,413] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 15:06:47,129] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 15:08:25,973] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 15:08:27,035] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 15:08:27,381] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 15:08:28,503] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc5357@gmail.us'
+[INFO ] [2022-08-07 15:08:29,022] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 15:08:29,244] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 15:08:29,476] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 15:08:30,519] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 15:08:30,692] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 15:08:31,634] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 15:08:32,734] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc5357@gmail.us
+[INFO ] [2022-08-07 15:08:33,012] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 15:08:33,265] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 15:08:34,977] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 15:08:35,101] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 15:08:35,874] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 15:08:36,036] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 15:08:36,688] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 15:10:22,025] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 15:10:23,379] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 15:10:23,835] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 15:10:25,071] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc6311@gmail.us'
+[INFO ] [2022-08-07 15:10:25,701] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 15:10:25,992] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 15:10:26,293] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 15:10:27,361] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 15:10:27,554] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 15:10:28,738] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 15:10:29,496] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc6311@gmail.us
+[INFO ] [2022-08-07 15:10:29,780] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 15:10:30,008] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 15:10:30,917] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 15:10:31,040] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 15:10:31,861] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 15:10:31,972] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 15:10:32,633] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 20:53:49,876] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 20:53:51,549] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 20:53:51,897] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 20:53:53,464] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc2803@gmail.us'
+[INFO ] [2022-08-07 20:53:54,086] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 20:53:54,482] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 20:53:54,878] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 20:53:56,258] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 20:53:56,682] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 20:53:58,070] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 20:53:59,202] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc2803@gmail.us
+[INFO ] [2022-08-07 20:53:59,589] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 20:53:59,915] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 20:54:01,101] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 20:54:01,291] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 20:54:02,300] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 20:54:02,511] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 20:54:03,499] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 21:17:04,909] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 21:17:07,728] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 21:17:08,262] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 21:17:10,163] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc759@gmail.us'
+[INFO ] [2022-08-07 21:17:11,071] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 21:17:11,527] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 21:17:11,976] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 21:17:13,474] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 21:17:14,210] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 21:17:16,307] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 21:17:17,678] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc759@gmail.us
+[INFO ] [2022-08-07 21:17:18,195] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 21:17:18,660] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 21:17:20,205] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 21:17:20,392] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 21:17:21,807] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 21:17:22,026] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 21:17:23,706] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 21:26:52,404] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 21:26:56,471] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 21:26:57,143] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 21:26:59,581] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc8393@gmail.us'
+[INFO ] [2022-08-07 21:27:00,163] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 21:27:00,470] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 21:27:00,966] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 21:27:03,251] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 21:27:04,220] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 21:27:05,908] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 21:27:07,008] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 21:27:08,409] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc8393@gmail.us
+[INFO ] [2022-08-07 21:27:08,531] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 21:27:09,006] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 21:27:09,102] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 21:27:09,631] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 21:27:10,851] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc8453@gmail.us'
+[INFO ] [2022-08-07 21:27:11,605] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 21:27:12,009] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 21:27:12,423] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 21:27:13,069] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 21:27:13,194] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 21:27:14,362] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 21:27:14,729] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 21:27:16,605] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 21:27:17,869] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc8453@gmail.us
+[INFO ] [2022-08-07 21:27:18,014] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 21:27:18,391] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 21:27:18,825] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 21:27:18,855] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 21:27:20,514] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 21:27:21,496] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 21:27:22,278] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 21:27:23,187] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 21:27:23,337] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 21:27:24,261] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 21:31:48,749] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 21:31:50,076] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 21:31:50,367] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 21:31:51,487] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc5663@gmail.us'
+[INFO ] [2022-08-07 21:31:51,972] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 21:31:52,362] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 21:31:52,642] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 21:31:53,779] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 21:31:54,062] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 21:31:55,406] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 21:31:56,354] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc5663@gmail.us
+[INFO ] [2022-08-07 21:31:56,705] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 21:31:56,981] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 21:31:57,988] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 21:31:58,116] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 21:31:59,073] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 21:31:59,227] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 21:32:00,277] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:09:11,012] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 22:09:12,823] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 22:09:13,151] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 22:09:14,268] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc2883@gmail.us'
+[INFO ] [2022-08-07 22:09:14,723] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:09:15,026] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:09:15,305] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 22:09:17,585] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 22:09:18,024] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 22:09:19,158] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 22:09:19,990] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc2883@gmail.us
+[INFO ] [2022-08-07 22:09:20,398] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 22:09:20,686] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 22:09:21,757] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 22:09:21,872] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:09:22,682] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:09:22,807] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:09:23,608] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:23:18,543] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 22:23:20,440] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 22:23:20,789] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 22:23:22,217] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc3659@gmail.us'
+[INFO ] [2022-08-07 22:23:22,750] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:23:23,133] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:23:23,528] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 22:23:24,936] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 22:23:25,383] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 22:23:26,662] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 22:23:27,724] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc3659@gmail.us
+[INFO ] [2022-08-07 22:23:28,324] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 22:23:28,645] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 22:23:29,850] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 22:23:29,983] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:23:30,917] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:23:31,058] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:23:32,077] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:34:16,959] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 22:34:19,433] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 22:34:20,195] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 22:34:22,147] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc2054@gmail.us'
+[INFO ] [2022-08-07 22:34:22,961] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:34:23,472] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:34:23,768] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 22:34:26,778] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 22:34:27,342] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 22:34:31,994] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 22:34:37,183] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc2054@gmail.us
+[INFO ] [2022-08-07 22:34:37,579] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 22:34:37,849] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 22:34:41,148] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 22:34:41,324] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:34:42,842] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:34:43,181] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:34:44,108] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:40:08,401] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 22:40:09,836] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 22:40:10,158] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 22:40:11,339] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc5833@gmail.us'
+[INFO ] [2022-08-07 22:40:11,822] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:40:12,135] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:40:12,451] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 22:40:13,572] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 22:40:14,336] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 22:40:15,613] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 22:40:16,374] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc5833@gmail.us
+[INFO ] [2022-08-07 22:40:16,722] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 22:40:16,964] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 22:40:18,033] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 22:40:18,144] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:40:18,868] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:40:19,053] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:40:19,882] Login - Step 02: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:41:33,522] Register - Step 01: Navigate to Register Page
+[INFO ] [2022-08-07 22:41:34,718] Register - Step 02: Enter to FirstName Textbox with value is 'Automation'
+[INFO ] [2022-08-07 22:41:35,092] Register - Step 03: Enter to LastName Textbox with value is 'Fc'
+[INFO ] [2022-08-07 22:41:36,471] Register - Step 04: Enter to EmailAddress Textbox with value is 'automationfc8183@gmail.us'
+[INFO ] [2022-08-07 22:41:36,914] Register - Step 05: Enter to Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:41:37,196] Register - Step 06: Enter to Confirm Password Textbox with value is '123456'
+[INFO ] [2022-08-07 22:41:37,471] Register - Step 07: Click To Register Button
+[INFO ] [2022-08-07 22:41:38,639] Register - Step 08: Verify Register successful Message is displayed
+[INFO ] [2022-08-07 22:41:38,903] Register - Step 09: Click To Logout Link
+[INFO ] [2022-08-07 22:41:39,906] Login - Step 01: Navigate To Login Page
+[INFO ] [2022-08-07 22:41:40,735] Login - Step 02: Enter to emailAddress Textbox with value is 'automationfc8183@gmail.us
+[INFO ] [2022-08-07 22:41:41,077] Login - Step 03: Enter to Password Textbox with value is '123456
+[INFO ] [2022-08-07 22:41:41,397] Login - Step 04: Click To Login Button
+[INFO ] [2022-08-07 22:41:42,534] Login - Step 05: Verify 'My Account' Link is Displayed
+[INFO ] [2022-08-07 22:41:42,647] Login - Step 06: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:41:43,416] Login - Step 07: Verify 'Customer Infor Page' is displayed
+[INFO ] [2022-08-07 22:41:43,557] Login - Step 01: Navigate To 'My Account' Page
+[INFO ] [2022-08-07 22:41:44,258] Login - Step 02: Verify 'Customer Infor Page' is displayed
