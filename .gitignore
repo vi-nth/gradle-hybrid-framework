@@ -3,3 +3,10 @@
 
 # Ignore Gradle build output directory
 build
+/bin/
+/test-output/
+/target/
+/log/
+/report/
+
+

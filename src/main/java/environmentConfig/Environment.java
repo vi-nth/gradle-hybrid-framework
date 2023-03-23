@@ -5,7 +5,7 @@ import org.aeonbits.owner.Config.Key;
 import org.aeonbits.owner.Config.Sources;
 
 
-@Sources({"classpath:${envOwner}.properties"})
+@Sources({"file:environmentConfig/${envOwner}.properties"})
 public interface Environment extends Config {
 	String osName();
 	
@@ -17,5 +17,6 @@ public interface Environment extends Config {
 	
 	@Key("app.password")
 	String appPassword();
+	
 
 }

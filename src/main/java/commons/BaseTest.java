@@ -188,9 +188,9 @@ public class BaseTest {
 			WebDriverManager.chromedriver().setup();
 
 			// Add extension to Chrome
-			File file = new File(GlobalConstants.PROJECT_PATH + "\\browserExtentions\\google-translate.crx");
+			//File file = new File(GlobalConstants.PROJECT_PATH + "\\browserExtentions\\google-translate.crx");
 			ChromeOptions options = new ChromeOptions();
-			options.addExtensions(file);
+			//options.addExtensions(file);
 			driver = new ChromeDriver(options);
 
 		} else if (browserList == BrowserList.HEAD_CHROME) {
@@ -233,7 +233,8 @@ public class BaseTest {
 		}
 		driver.manage().timeouts().implicitlyWait(GlobalConstants.LONG_TIMEOUT, TimeUnit.SECONDS);
 		// driver.get(GlobalConstants.JQUREY_PAGE_URL);
-		driver.get(getEnvironmentUrl(appUrl));
+		// driver.get(getEnvironmentUrl(appUrl));
+		driver.get(appUrl);
 		return driver;
 	}
 
